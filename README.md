@@ -43,7 +43,3 @@ After training the **Random Forest Classifier** model, the system revealed the t
 * **Proactive Customer Success:** Flag any user giving a satisfaction score below 3 stars and alert the customer support team to resolve their issues immediately before they permanently leave the platform.
 * **Onboarding Optimization:** Improve the introductory experience and offer tailored benefits for customers with a low `customer_lifetime_days` score to increase initial retention.
 
----
-
-## Project Structure
-* `Customer_Churn_Analytics.ipynb`: The complete Google Colab containing data cleaning, SQL queries via pandasql/sqlite, custom data visualizations, preprocessing, and the finalized Random Forest model.
